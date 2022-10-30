@@ -124,4 +124,4 @@ async def trade(ctx):
     driver.quit()
 
 
-client.run('MTAzNjA5MDMyMTYzMDY3OTA3Mg.GIP4fk.ugnYJxVVpsATg-ADwssmWu86nyB2uRv6yrxOYA')
+client.run('token')
